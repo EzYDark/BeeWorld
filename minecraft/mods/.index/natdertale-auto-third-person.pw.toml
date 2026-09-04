@@ -1,16 +1,17 @@
-filename = 'auto-thirdperson-1.0.0-1.21.+.jar'
+filename = "auto-thirdperson-1.0.1-1.21.+.jar"
 name = 'Auto Third Person'
 side = 'client'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric", "quilt" ]
+x-prismlauncher-mc-versions = [ "1.21.1", "1.21.2", "1.21.3", "1.21.4" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.0.1"
 
 [download]
-hash = 'bcd1db408963ed978b0f3fb3c103c7e7c3edb6c9dc0805a6ac3935e36f34984e75fdbd6a4c6bf9ae085311aa5832e191b85e59d4c33629d5ed5153058660395a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/aZ4i8cMP/versions/gerk1CaJ/auto-thirdperson-1.0.0-1.21.%2B.jar'
+hash = "a8ab19348fd942cf29e0c10f5b18f3706316c9c41ee90723513d05ad92176045cdc6aa5a708409db45b00999887152d547b8b9823abd8dacbec68b78ca379c2d"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/aZ4i8cMP/versions/HrKocIie/auto-thirdperson-1.0.1-1.21.%2B.jar"
 
 [update.modrinth]
 mod-id = 'aZ4i8cMP'
-version = 'gerk1CaJ'
+version = "HrKocIie"

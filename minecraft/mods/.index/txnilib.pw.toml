@@ -1,16 +1,17 @@
-filename = 'txnilib-fabric-1.0.22-1.21.1.jar'
+filename = "txnilib-fabric-1.0.24-1.21.1.jar"
 name = 'TxniLib'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric" ]
+x-prismlauncher-mc-versions = [ "1.21.1" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "fabric-1.21.1-1.0.24"
 
 [download]
-hash = '7b4b80474bfb572c021e5602ebacb3a5f929b3a5e01f6f31d23931d80e568a871de6ae5c3fb8742b6942d2c7727f96bfb1cae2902ad350018a66e59e58f3b09b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/vBbPDuOs/versions/JOKpd5pX/txnilib-fabric-1.0.22-1.21.1.jar'
+hash = "27e8e8afb93e4fe57fb5e7281e50fc1b2d4881609691cabda914692bfac805b6c63ddf4ae622596d7fa950870f1ad824b443e8973499daa4d44cb6f274694ea2"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/98FHAlrc/txnilib-fabric-1.0.24-1.21.1.jar"
 
 [update.modrinth]
 mod-id = 'vBbPDuOs'
-version = 'JOKpd5pX'
+version = "98FHAlrc"

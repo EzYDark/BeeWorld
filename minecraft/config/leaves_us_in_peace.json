@@ -2,7 +2,7 @@
   "matchLeavesTypes": true,
   "unknownLeavesOnlyMatchSelf": true,
   "matchLogsToLeaves": true,
-  "ignorePersistentLeaves": true,
+  "persistentLeavesBehavior": "IGNORE",
   "accelerateLeavesDecay": true,
   "decayDelay": {
     "minimum": 10,

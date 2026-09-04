@@ -1,16 +1,21 @@
-filename = 'ends_delight-refabricated-1.21.1-2.5.jar'
+filename = 'ends_delight-2.6+refabricated.1.21.1.jar'
 name = "End's Delight"
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.6+refabricated.1.21.1'
 
 [download]
-hash = 'ee6b09b455bcfeb9da18ff28d84aa9fa81d839239e76a18d397def0434f02f4628f1b12d177f37581bf0f1505f6c3b9eee5e3ffda02a2d40e56e01909708d486'
+hash = 'b1c7d19e95d73fb4ae3b462971789e25d9bc3babc277b66093826b31c164445fb15201b0ba900846610838707c8409d70f2e5ffe1a4a06edfc36ac3ef38af1cd'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yHN0njMr/versions/vdrdGBnA/ends_delight-refabricated-1.21.1-2.5.jar'
+url = 'https://cdn.modrinth.com/data/yHN0njMr/versions/VkP67Q42/ends_delight-2.6%2Brefabricated.1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'yHN0njMr'
-version = 'vdrdGBnA'
+version = 'VkP67Q42'
+
+[[x-prismlauncher-dependencies]]
+addonId = '7vxePowz'
+type = 'REQUIRED'

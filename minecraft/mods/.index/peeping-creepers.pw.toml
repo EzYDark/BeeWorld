@@ -1,0 +1,25 @@
+filename = 'peepingcreepers-1.2-1.20.5.jar'
+name = 'Peeping Creepers'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'peeping creepers fabric 1.2 for 1.20.5+'
+
+[download]
+hash = 'bb34cc8b9e86ed6528dfac8880fc487e3aff30e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5561022
+project-id = 408865
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

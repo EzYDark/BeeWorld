@@ -68,7 +68,6 @@ internal_texture_format = "RGBA16F"
 		fp16 = true
 
 	[special.fsr2]
-		version = "V233"
 		fp16 = true
 
 [experiment]

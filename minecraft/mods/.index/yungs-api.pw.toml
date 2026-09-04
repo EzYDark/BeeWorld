@@ -1,16 +1,21 @@
-filename = 'YungsApi-1.21.1-Fabric-5.1.3.jar'
+filename = 'YungsApi-1.21.1-Fabric-5.1.8.jar'
 name = "YUNG's API"
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-Fabric-5.1.8'
 
 [download]
-hash = '4a551855af660783f2e194c13320df04619eb381c71e2d1196eb67ff6c267aeb43242094b5ea471a835238a310fccb01eeb86a290f04d070bdab61b7909a0313'
+hash = '7583d0f09197791faee281b30ec3370850d72f4006fef2e63c8478298220ef252a12ce999e7bc893f881ed108897f6cafd28d3742215cadba99c3b94eef3863a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Ua7DFN59/versions/DeaIlZ9A/YungsApi-1.21.1-Fabric-5.1.3.jar'
+url = 'https://cdn.modrinth.com/data/Ua7DFN59/versions/okaPlkwI/YungsApi-1.21.1-Fabric-5.1.8.jar'
 
 [update.modrinth]
 mod-id = 'Ua7DFN59'
-version = 'DeaIlZ9A'
+version = 'okaPlkwI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,16 +1,17 @@
-filename = 'notenoughanimations-fabric-1.9.1-mc1.21.jar'
+filename = "notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
 name = 'Not Enough Animations'
 side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric" ]
+x-prismlauncher-mc-versions = [ "1.21.1" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.12.4"
 
 [download]
-hash = 'b57c451f9f25b7aeff6915058bc1b7320c5de35ef8e593346fe3b060c1fab95bca276b820a649d82f30da8f92b3c217d8f4c2b10f850e9130df888d53c5b8c6a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/MPCX6s5C/versions/OXbCwCbr/notenoughanimations-fabric-1.9.1-mc1.21.jar'
+hash = "c5880052f030f6f26b00da5d5fdd4d2efa83174dafb89ec674da8fc9671beaecd1d07a17ab8154b718cdca1a953da827b61ffbd5de62b852191d40b67eddeb83"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/HyecdWuC/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
 
 [update.modrinth]
 mod-id = 'MPCX6s5C'
-version = 'OXbCwCbr'
+version = "HyecdWuC"

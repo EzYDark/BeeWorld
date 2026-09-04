@@ -1,16 +1,17 @@
-filename = 'CreativeCore_FABRIC_v2.12.32_mc1.21.1.jar'
+filename = "CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar"
 name = 'CreativeCore'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric" ]
+x-prismlauncher-mc-versions = [ "1.21.1" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "2.13.39"
 
 [download]
-hash = 'be3e517be08f8a053516ec0befb06c696b944766a369dd71d39a587b9ec3422d4a615f226d34c8f4edf8f670560c049713573d5d33aee4215bab88e7df340a1d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/OsZiaDHq/versions/5N3UG5Wm/CreativeCore_FABRIC_v2.12.32_mc1.21.1.jar'
+hash = "4360184be94772c098661b1338b38eb03af47a2f57eab490a5e64e9ffa7598c4fbd9e06aa1c45d80f13d538c8322587944d4a0c0b497b069c29d88291ff8ebf7"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/wZEbqU3j/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar"
 
 [update.modrinth]
 mod-id = 'OsZiaDHq'
-version = '5N3UG5Wm'
+version = "wZEbqU3j"

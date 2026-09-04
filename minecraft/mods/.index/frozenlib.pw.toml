@@ -1,16 +1,17 @@
-filename = 'FrozenLib-1.9.14-mc1.21.1.jar'
+filename = "FrozenLib-2.2.4-mc1.21.1.jar"
 name = 'FrozenLib'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric", "quilt" ]
+x-prismlauncher-mc-versions = [ "1.21.1" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "2.2.4-mc1.21.1"
 
 [download]
-hash = '5182e92317bf4b9bf23f0d59f2d635e86747335d2bd220153584e91d40162647f05b8aaa8c3cac6019b80a6fc4cdcf43fa935e341dd6aa71b0dfef5b8ef766ec'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/9KawNmQc/versions/iCv4AudA/FrozenLib-1.9.14-mc1.21.1.jar'
+hash = "2fe0816d77ea68a644efec183050f6e0a2f7c7f228dfb8267f015cc13fb2e78af89820692234a7279673710116adc668f39d24fe066d205c0c2bb78408ffd0c5"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/9KawNmQc/versions/GdadG0oj/FrozenLib-2.2.4-mc1.21.1.jar"
 
 [update.modrinth]
 mod-id = '9KawNmQc'
-version = 'iCv4AudA'
+version = "GdadG0oj"

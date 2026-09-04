@@ -1,16 +1,17 @@
-filename = 'Resourcify (1.21.1-fabric)-1.7.0.jar'
+filename = "Resourcify (1.21.1-fabric)-1.8.5.jar"
 name = 'Resourcify'
 side = 'client'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric" ]
+x-prismlauncher-mc-versions = [ "1.21", "1.21.1" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.8.5"
 
 [download]
-hash = 'dfd0d906fe70a913d796c65774a73024a443accfaafd41639c16b5c8bf633f8685d39fd55a23fd40cb30700dd856df89ec9a0ec635868e3f318baf8d5e2ce315'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/RLzHAoZe/versions/wrfnNXcK/Resourcify %281.21.1-fabric%29-1.7.0.jar'
+hash = "ee643a7f8188fd65b0b121ed3387964ec77daed067f907c00e65b44ce755d01146a8a586374b377089c372bd180cee22e76c49dc551b03340547db31e5ee6665"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/tWL8XHWU/Resourcify%20%281.21.1-fabric%29-1.8.5.jar"
 
 [update.modrinth]
 mod-id = 'RLzHAoZe'
-version = 'wrfnNXcK'
+version = "tWL8XHWU"

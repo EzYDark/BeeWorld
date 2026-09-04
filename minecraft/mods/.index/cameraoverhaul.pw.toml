@@ -1,16 +1,17 @@
-filename = 'CameraOverhaul-v2.0.0-fabric+mc[1.20.6-1.21.1].jar'
+filename = "CameraOverhaul-v2.1.1-fabric+mc[1.21-1.21.2].jar"
 name = 'Camera Overhaul'
 side = 'client'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.6', '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric", "quilt" ]
+x-prismlauncher-mc-versions = [ "1.21", "1.21.1", "1.21.2" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "2.1.1-fabric+mc.1.21-1.21.2"
 
 [download]
-hash = '9dd3ff91e6638863847f8b9449d1b07280ff5c3b938957857ca02bb077875dc0a69f500ccd51fce5458789e239ee099575ed2f9a6d033bbaa0c6205ad6213cb6'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/m0oRwcZx/versions/JPvsNzsT/CameraOverhaul-v2.0.0-fabric%2Bmc%5B1.20.6-1.21.1%5D.jar'
+hash = "51dc13fcab8d72fbb68d2768388637174c2deab212a0ed8f5d9b2cd62a1983d272d7cacc843cd9ce1ebf38942dee69f98de4be76e62c990339a1cddd82e7072e"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/m0oRwcZx/versions/zDas2ZO2/CameraOverhaul-v2.1.1-fabric%2Bmc%5B1.21-1.21.2%5D.jar"
 
 [update.modrinth]
 mod-id = 'm0oRwcZx'
-version = 'JPvsNzsT'
+version = "zDas2ZO2"

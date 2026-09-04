@@ -1,16 +1,17 @@
-filename = 'MoreStickVariants-1.3.5+1.21.1-Fabric.jar'
+filename = "MoreStickVariants-1.4.20+1.21(.1)-Fabric.jar"
 name = 'More Stick Variants (MStV)'
 side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric" ]
+x-prismlauncher-mc-versions = [ "1.21", "1.21.1-rc1", "1.21.1" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.4.20"
 
 [download]
-hash = '9fbc7e889aeb7420ff1f6e97f79aedcd47e1b45069942134b2a5f4306a090f05cdee5352076b4435791924e2d2e0e5ace3f52a559065ce5667ce55bb956d67f3'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ZVv4e6pP/versions/1QyLYaup/MoreStickVariants-1.3.5%2B1.21.1-Fabric.jar'
+hash = "39146ce58c53d2a96cc81ae8b38b1ff9650a46b699bf1425230e192e9fc5078cea28c51428efcf65afb6fea1e6ff1811939370cef85f6045bc096de10bf9580f"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZVv4e6pP/versions/F8lEGNb5/MoreStickVariants-1.4.20%2B1.21%28.1%29-Fabric.jar"
 
 [update.modrinth]
 mod-id = 'ZVv4e6pP'
-version = '1QyLYaup'
+version = "F8lEGNb5"

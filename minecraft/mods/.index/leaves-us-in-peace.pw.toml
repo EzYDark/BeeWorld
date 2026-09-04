@@ -1,16 +1,17 @@
-filename = 'leaves-us-in-peace-1.6.1+MC1.21-1.21.1.jar'
+filename = "leaves-us-in-peace-1.6.2+MC1.21-1.21.1.jar"
 name = 'Leaves Us In Peace'
 side = 'server'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+x-prismlauncher-loaders = [ "fabric", "quilt" ]
+x-prismlauncher-mc-versions = [ "1.21", "1.21.1" ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.6.2+MC1.21-1.21.1"
 
 [download]
-hash = 'cca64da5c7a6ccf919d82812368e4c4704d8c77d56033367581e4b36c68e836b25f314332b4c4ba253a96f584c7dc704b8bbde79facc82bc298c8c83c259f500'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/IIpWIe1o/versions/jf4X0dtk/leaves-us-in-peace-1.6.1%2BMC1.21-1.21.1.jar'
+hash = "4aeba7a36026d855682e7c722c2d1f0438ce48794b006eed4db6e463e0bb799b295ff03bca41e109f2eb455218805cf29c69b377126e17ee85f446011b3bb8f1"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/shnOyAwN/leaves-us-in-peace-1.6.2%2BMC1.21-1.21.1.jar"
 
 [update.modrinth]
 mod-id = 'IIpWIe1o'
-version = 'jf4X0dtk'
+version = "shnOyAwN"
