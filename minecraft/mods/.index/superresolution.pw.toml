@@ -1,0 +1,18 @@
+filename = 'super_resolution-fabric-1.21..1.21.1-0.9.0-alpha.2+opengl.jar'
+name = 'Super Resolution'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.21-0.9.0-alpha.2+gl-fabric'
+
+[download]
+hash = '90499ada4b118138ac3a7d8707c2e9a6c4c02cdda8587c88f3107bfd7d0fe6a4c77dea1c40385e8b7f1e572eeef8ca9f06cf5f8821ae4776cc4661fa4cefa5f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Hf3Qz2H3/versions/vZnzy6dX/super_resolution-fabric-1.21..1.21.1-0.9.0-alpha.2%2Bopengl.jar'
+
+[update.modrinth]
+mod-id = 'Hf3Qz2H3'
+version = 'vZnzy6dX'

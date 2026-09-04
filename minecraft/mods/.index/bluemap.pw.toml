@@ -1,0 +1,16 @@
+filename = 'bluemap-5.5-fabric.jar'
+name = 'BlueMap'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cecad52391159d10e16e474b7f8af95b94fd93495f69d211cfb0f3b2110fd363e1bdc6fe894f0d869e23248d4768efa9520dc22f5a3f44a30788cdfc3704ee2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/swbUV1cr/versions/Mvle7bPy/bluemap-5.5-fabric.jar'
+
+[update.modrinth]
+mod-id = 'swbUV1cr'
+version = 'Mvle7bPy'

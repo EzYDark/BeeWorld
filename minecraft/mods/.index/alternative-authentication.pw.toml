@@ -1,0 +1,16 @@
+filename = 'alternative-auth-1.0.0+1.21.1.jar'
+name = 'Alternative Authentication'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '009c607eeb5e15c8ec87aae5000044e98c13959ec24bf48ef9f2f9d8d6a8efa1b9f456747905e44a3a1ab469d5bb75ffdd86ca6a106730088569c24a309fd837'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iF6szt3y/versions/r8L0yDKg/alternative-auth-1.0.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'iF6szt3y'
+version = 'r8L0yDKg'

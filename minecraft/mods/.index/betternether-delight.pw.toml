@@ -1,0 +1,16 @@
+filename = 'betternetherdelight-1.0.0.5-1.21.x.jar'
+name = 'BetterNether Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '190eda3e0d582bd8ac4791809042140e415f58279f4586206d3b1c9d2a9e42419342f0d407bb502ff82d50265e6f310286b184819a03fde60af185ed4c113583'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aSmUZhrk/versions/LxH1szoF/betternetherdelight-1.0.0.5-1.21.x.jar'
+
+[update.modrinth]
+mod-id = 'aSmUZhrk'
+version = 'LxH1szoF'

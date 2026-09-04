@@ -1,0 +1,16 @@
+filename = 'aio-string-my-wool-1.2.1.jar'
+name = 'AIO - String my wool'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b9ec41b66d92b5e79117e6e329798fecf06c879abcc2b2c6ce8e28dda049338a2049569a0acf546d08353087e227c427d030017fddf4648019d0a7f393183d6a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VNFH6VyL/versions/5Dcfnz6N/aio-string-my-wool-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'VNFH6VyL'
+version = '5Dcfnz6N'

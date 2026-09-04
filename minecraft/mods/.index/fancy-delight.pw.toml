@@ -1,0 +1,16 @@
+filename = 'fancydelight-1.21x-1.0.0.jar'
+name = 'Fancy Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e572253cfff6251cedd669839274e2b6ce480f97194fc2516d30dc859de5d50439f0cf0ad4c60b7eaa6934c35cc767d4fef447239ce862cbe465e8fb0c100558'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bRAjxqA5/versions/q9aufRsR/fancydelight-1.21x-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'bRAjxqA5'
+version = 'q9aufRsR'

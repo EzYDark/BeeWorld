@@ -1,0 +1,16 @@
+filename = 'farsighted-mobs-fabric-1.1-1.20.5.jar'
+name = 'Farsighted Mobs'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5fd8f2d54f6ba75ee9cbee4830187f4ce82871107c806869bf606d76d0ba3c28b532fa82eff7437ad3a79a61c0e7d3781c6b1d9120e57fd4f90d2cdecb1768f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eEpWUjwq/versions/hpcdszty/farsighted-mobs-fabric-1.1-1.20.5.jar'
+
+[update.modrinth]
+mod-id = 'eEpWUjwq'
+version = 'hpcdszty'

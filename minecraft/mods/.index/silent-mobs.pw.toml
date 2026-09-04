@@ -1,0 +1,16 @@
+filename = 'silent-mobs-1.jar'
+name = 'Silent Mobs/Minecarts'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aeca2a2365ce8f470ba6ca7fdf7c631afddfe3b0f7eef2dc72b19f60c3a6ecb0cc1900890395859cf81ff5b354435b0db622658eb43ff6800192106eb395ee7a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ShlEFXjF/versions/nkdEWKhI/silent-mobs-1.jar'
+
+[update.modrinth]
+mod-id = 'ShlEFXjF'
+version = 'nkdEWKhI'

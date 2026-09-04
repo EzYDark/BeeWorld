@@ -1,0 +1,16 @@
+filename = 'proper-pet-tp-1.2.1.jar'
+name = 'PPeTP'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6dbcbc58e53528c30d93a53a15611e0b719be8aba1fdcc8df418c7070987caffe9e978f436c1b9d85f449f167f36c28fe996b5f66bc5115fb8c6d53d306f399f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KbPewBWv/versions/kpP7rflC/proper-pet-tp-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'KbPewBWv'
+version = 'kpP7rflC'

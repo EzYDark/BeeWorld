@@ -1,0 +1,49 @@
+# Worlds and private data
+minecraft/saves/
+minecraft/screenshots/
+minecraft/servers.dat_old
+minecraft/command_history.txt
+
+# Runtime output and caches
+minecraft/logs/
+minecraft/crash-reports/
+minecraft/.fabric/
+minecraft/coremods/
+minecraft/downloads/
+minecraft/moddata/
+minecraft/playeredits/
+minecraft/server-resource-packs/
+minecraft/dashloader-cache/
+minecraft/dynamic-resource-pack-cache/
+minecraft/frozenlib_cape_cache/
+minecraft/sr_shaderCache/
+minecraft/Distant_Horizons_server_data/
+
+# Large binaries tracked through mods-lock.tsv
+minecraft/texturepacks/
+minecraft/*.dll
+
+# Super Resolution downloads
+minecraft/config/super_resolution/libraries/
+minecraft/config/super_resolution/shader_caches/
+minecraft/config/super_resolution/*.log
+
+# Machine-specific timestamps and paths
+instance.cfg
+
+# Private and per-server mod state
+minecraft/config/NoChatReports/NCR-Encryption.json
+minecraft/config/NoChatReports/NCR-ServerPreferences.json
+minecraft/config/bluemap/storages/sql.conf
+minecraft/config/jei/world/
+
+# Generated mod state and diagnostics
+minecraft/bluemap/
+minecraft/config/chunky/tasks/
+minecraft/config/etf_warnings.json
+minecraft/config/gamecontrollerdatabase.txt
+minecraft/config/invmove/unrecognized.json
+minecraft/config/sodium-fingerprint.json
+minecraft/config/wover/cached.json
+minecraft/data/fabricDefaultResourcePacks.dat
+minecraft/errorArtifact_*

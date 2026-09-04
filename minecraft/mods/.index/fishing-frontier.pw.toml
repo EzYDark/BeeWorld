@@ -1,0 +1,16 @@
+filename = 'fishing-frontier-2.01.jar'
+name = 'Fishing Frontier'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bc07b1a60342381693476dcc515933cec647d9efda76eaee737a04478442208f290c775a73ad00c264735e83a942cdfbf450c6b11442c777bde657b4022e2511'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Jx0c12oz/versions/vn1u6Rs8/fishing-frontier-2.01.jar'
+
+[update.modrinth]
+mod-id = 'Jx0c12oz'
+version = 'vn1u6Rs8'

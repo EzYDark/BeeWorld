@@ -1,0 +1,16 @@
+filename = 'babiesforever-1.2.0+1.21.jar'
+name = 'Babies Forever'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.10', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '36fd513edb95c5e9e180fd011a738b7cb08d0dbf519f156c4e57b6c8cf82fb233c7a8c0aa49c5995634ded29dd74368bfedb3239129b871a8537bd8db0cc10f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X0sywFsk/versions/8K7KxJNo/babiesforever-1.2.0%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'X0sywFsk'
+version = '8K7KxJNo'

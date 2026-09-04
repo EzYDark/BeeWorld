@@ -1,0 +1,16 @@
+filename = 'MoreFishingRodVariants-1.0.4+1.21-Fabric.jar'
+name = 'More (Fishing) Rod Variants (MStV+)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9a282b84da78457c1f4e9cf2b7f2b595bc98e2bf9aa1e6accd368089f681884045e5933aa98d6a6d9d643204494fcf0054c3ec56b9961f39bb2dc29c81ce59dc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/J7YAdDyQ/versions/RbBBeWgE/MoreFishingRodVariants-1.0.4%2B1.21-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'J7YAdDyQ'
+version = 'RbBBeWgE'

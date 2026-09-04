@@ -1,0 +1,16 @@
+filename = 'randommobsizes-fabric-1.21.1-2.2.2.jar'
+name = 'Random Mob Sizes'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ac43a360ad9c27f09478d485197d96192375fcb5c212be00840e755be6c40417150400fdddd8c850c6ae5b90544427301b26ceeac5e7cfea0240186f546df395'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ccz0Dj7d/versions/ToOBKL2y/randommobsizes-fabric-1.21.1-2.2.2.jar'
+
+[update.modrinth]
+mod-id = 'ccz0Dj7d'
+version = 'ToOBKL2y'
