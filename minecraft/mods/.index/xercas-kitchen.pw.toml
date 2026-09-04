@@ -1,0 +1,18 @@
+filename = 'xercafood-1.21.1-1.0.2.jar'
+name = "Xerca's Kitchen"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.0.2'
+
+[download]
+hash = '72f8eed81a2cc4e901eeead4aefddcda2f67b2ae9a524081898230cc942967b882828bfe893c82429726fd29b9071b91eab5712c06ae0d0fdd06ca0d92fdd8d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CZY6IAGS/versions/oJIP2TCL/xercafood-1.21.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'CZY6IAGS'
+version = 'oJIP2TCL'

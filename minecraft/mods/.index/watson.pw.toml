@@ -1,0 +1,21 @@
+filename = 'watson-fabric-1.15.7+1.21.jar'
+name = 'Watson'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.15.7+1.21'
+
+[download]
+hash = '4090b2afc76cbf91dcc1ee7816d9384857e6c4e79c6bd76c437185c2ed7d9c9dd9acb52402837cbeef8b06d63672cc6d11170d37dcacbc98fd788b1c417792e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xZxRYS0M/versions/lMOSrdbr/watson-fabric-1.15.7%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'xZxRYS0M'
+version = 'lMOSrdbr'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GcWjdA9I'
+type = 'REQUIRED'

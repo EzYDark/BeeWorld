@@ -1,0 +1,25 @@
+filename = 'grieflogger-1.2.10-1.21.1-fabric.jar'
+name = 'GriefLogger'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.10-1.21.1'
+
+[download]
+hash = '54341ca0a7870968ea86f109cbd439b4e0d2d04822907a5d65f4ef66a8b069f0daedd6fe7d51e4566a15b8d7bc93a1ee8d04011dbd9ea209c9c2824fd5f37c3b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8oGVUFuX/versions/zPIDeXeI/grieflogger-1.2.10-1.21.1-fabric.jar'
+
+[update.modrinth]
+mod-id = '8oGVUFuX'
+version = 'zPIDeXeI'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LN9BxssP'
+type = 'REQUIRED'
