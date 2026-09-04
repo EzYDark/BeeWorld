@@ -1,0 +1,16 @@
+{
+  "quality1Threshold": 0.75,
+  "quality2Threshold": 0.9,
+  "quality3Threshold": 1.0,
+  "quality1Multiplier": 1.5,
+  "quality2Multiplier": 2.5,
+  "quality3Multiplier": 4.0,
+  "biteTimeMultiplier": 0.8,
+  "treasureChestChance": 0.15,
+  "goldenChestChance": 0.1,
+  "inventoryBobberEquipping": true,
+  "legendaryFishFlashing": true,
+  "legendaryFishChance": 0.01,
+  "isolateAudioCues": false,
+  "pauseDuringMinigame": true
+}

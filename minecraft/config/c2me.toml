@@ -76,6 +76,8 @@ threadPoolPriority = "default"
 	# This is no longer included in lithium-fabric 
 	# (may cause incompatibility with other mods)
 	# 
+	# Set to false for the following reasons: 
+	# Incompatible with biolith@3.0.14 (*) (defined in c2me) 
 	useEndBiomeCache = "default"
 
 [fixes]

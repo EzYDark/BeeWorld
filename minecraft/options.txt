@@ -137,6 +137,7 @@ key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
 key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add
 key_key.map_atlases.place_pin:key.keyboard.b
 key_seamless_loading_screen.keybind.config:key.keyboard.g
+key_key.stardew_fishing.minigame_button:key.mouse.left
 key_key.super_resolution.open_config:key.keyboard.f6
 key_treechop.key.toggle_chopping:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
