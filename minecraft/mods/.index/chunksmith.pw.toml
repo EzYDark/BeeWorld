@@ -1,0 +1,21 @@
+filename = 'chunksmith-3.17.0+1.21.1.jar'
+name = 'Chunksmith'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.17.0+1.21.1'
+
+[download]
+hash = '20d5204f798d62d5618c99a833e9c6ff0d0e661e18ec86c2268e4c3749945eccf2f38ad71f3a87c81ee3f5b4f588065659e96ebd6082eae0c16dc817acd7b66a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4BeAEBIb/versions/Tvtkogtq/chunksmith-3.17.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = '4BeAEBIb'
+version = 'Tvtkogtq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

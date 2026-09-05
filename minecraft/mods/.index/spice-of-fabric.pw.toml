@@ -1,0 +1,29 @@
+filename = 'spice-of-fabric-1.6.3-beta.1+mc1.21.1.jar'
+name = 'Spice of Fabric'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.6.3-beta.1+mc1.21.1'
+
+[download]
+hash = '36e5ae18ab4228da2ce025a61f048b2ab158cc150d177aad69b7f3956ad17d52ad2094ad432abadc7e55e112e8ce35dce10ccb9b15f3e1505237ca9e4b90af03'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/roxihOCb/versions/ysKCctvw/spice-of-fabric-1.6.3-beta.1%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'roxihOCb'
+version = 'ysKCctvw'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'EsAfCjCV'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'xGdtZczs'
+type = 'OPTIONAL'
