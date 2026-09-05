@@ -18,6 +18,9 @@ minecraft/dynamic-resource-pack-cache/
 minecraft/frozenlib_cape_cache/
 minecraft/sr_shaderCache/
 minecraft/Distant_Horizons_server_data/
+minecraft/cache/
+minecraft/.mixin.out/
+
 
 # Large binaries tracked through mods-lock.tsv
 minecraft/texturepacks/
@@ -27,9 +30,6 @@ minecraft/*.dll
 minecraft/config/super_resolution/libraries/
 minecraft/config/super_resolution/shader_caches/
 minecraft/config/super_resolution/*.log
-
-# Machine-specific timestamps and paths
-instance.cfg
 
 # Private and per-server mod state
 minecraft/config/NoChatReports/NCR-Encryption.json
@@ -47,3 +47,21 @@ minecraft/config/sodium-fingerprint.json
 minecraft/config/wover/cached.json
 minecraft/data/fabricDefaultResourcePacks.dat
 minecraft/errorArtifact_*
+minecraft/config/bluemap/maps/*.conf
+
+# FrozenLib caches and automatic downloads
+minecraft/frozenlib/cape_cache/
+minecraft/frozenlib/downloaded_resourcepacks/
+minecraft/frozenlib/mod_downloaded_resource_packs.txt
+
+# Player cache and per-world Watson state
+minecraft/usercache.json
+minecraft/config/watson/watson_*.json
+
+# Config backups
+minecraft/config/**/*.bak
+
+# JVM crash dumps
+minecraft/hs_err_pid*.log
+minecraft/replay_pid*.log
+minecraft/*.hprof

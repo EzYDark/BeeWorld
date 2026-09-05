@@ -21,7 +21,7 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"false"
 renderDistance:8
 simulationDistance:8
 screenEffectScale:1.0
@@ -44,7 +44,7 @@ toggleSprint:true
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.23380281690140847
+mouseSensitivity:0.1443661971830986
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
@@ -94,7 +94,7 @@ key_key.left:key.keyboard.a
 key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
-key_key.sneak:key.keyboard.left.alt
+key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.mouse.5
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
@@ -130,7 +130,7 @@ key_key.biomeparticleweather.config:key.keyboard.b
 key_key.carry.desc:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.i
-key_text.HorseBuff.keybinding.horsePlayerInventory:key.keyboard.left.control
+key_text.HorseBuff.keybinding.horsePlayerInventory:key.keyboard.left.alt
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.map_atlases.open_minimap:key.keyboard.m
 key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
