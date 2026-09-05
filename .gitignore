@@ -21,8 +21,6 @@ minecraft/Distant_Horizons_server_data/
 minecraft/cache/
 minecraft/.mixin.out/
 
-
-# Large binaries tracked through mods-lock.tsv
 minecraft/texturepacks/
 minecraft/*.dll
 
