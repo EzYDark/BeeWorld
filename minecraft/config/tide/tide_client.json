@@ -8,7 +8,7 @@
   },
   "journal": {
     "showUnread": true,
-    "useAmPm": true,
+    "useAmPm": false,
     "useFahrenheit": false,
     "useRealDate": true
   },

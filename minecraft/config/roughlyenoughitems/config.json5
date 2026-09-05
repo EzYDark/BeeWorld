@@ -4,7 +4,7 @@
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		"cheating": true,
-		"favoritesEnabled": true,
+		"favoritesEnabled": false,
 		"reduceMotion": false,
 		"keyBindings": {
 			"useNativeKeybinds": false,
@@ -157,7 +157,7 @@
 			"clickableRecipeArrows": true,
 			"registerRecipesInAnotherThread": true,
 			"newFastEntryRendering": true,
-			"cachingFastEntryRendering": false,
+			"cachingFastEntryRendering": true,
 			"cachingDisplayLookup": true,
 			"categorySettings": {
 				"filteringQuickCraftCategories": { },
@@ -183,7 +183,15 @@
 					"minecraft:plugins/oxidizing",
 					"minecraft:plugins/oxidation_scraping",
 					"roughlyenoughitems:plugins/information",
-					"minecraft:plugins/tag"
+					"minecraft:plugins/tag",
+					"ubesdelight:plugins/baking_mat",
+					"farmersdelight:plugin/cooking",
+					"farmersdelight:plugin/cutting",
+					"farmersdelight:plugin/decomposition",
+					"betterend:alloying_fuel",
+					"betterend:alloying",
+					"betterend:infusion",
+					"betterend:smithing"
 				],
 				"hiddenCategories": []
 			}

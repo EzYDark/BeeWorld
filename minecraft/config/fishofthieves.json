@@ -12,7 +12,7 @@
     "displayTrophyBucketInCreativeTab": false
   },
   "biome": {
-    "tropicalIslandBiomeGeneration": true,
+    "tropicalIslandBiomeGeneration": false,
     "tropicalIslandMinimumWeirdness": -1.2,
     "tropicalIslandMaximumWeirdness": 1.2
   },
